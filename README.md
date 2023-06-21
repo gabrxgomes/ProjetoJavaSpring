@@ -1,2 +1,2 @@
 # ProjetoJavaSpring
-Projeto inicial de um projeto java com springboot.
+Parte inicial de um projeto java com springboot.
